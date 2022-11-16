@@ -11,7 +11,7 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://aftabalam.netlify.app)
+[Live Demo Link](https://Theaftabalam.github.io)
 
 
 
