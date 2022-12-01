@@ -153,3 +153,8 @@ color: var(--secondary);
   .calendar:hover {
     background-color: black;
   }
+
+  #ctr{
+    display: block;
+    margin: auto;
+  }
